@@ -1,4 +1,10 @@
-### Hi there 👋
+<div id="header" align="center">
+ <img src="" width="350" alt="Drawing Artificial Intelligence Icon" />
+  ### Hi there 👋
+</div>
+
+
+
 
 <!--
 **kalpasuraweera/kalpasuraweera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
