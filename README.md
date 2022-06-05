@@ -1,7 +1,13 @@
 <div id="header" align="center">
- <img src="" width="350" alt="Drawing Artificial Intelligence Icon" />
-  ### Hi there 👋
+ <div><img src="main.png" width="200"/></div> <br>
+ <img src="https://img.shields.io/twitter/follow/kalpamadhushan?style=social" /> <br />
+ <h1>Hi there 👋</h1>
+
 </div>
+<div align="center">
+ <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+ </div>
+  
 
 
 
